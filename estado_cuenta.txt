@@ -1,0 +1,11 @@
+EL estado de Cuenta:
+************************
+ID: 673544423b1b9 | Descripción: hola | Monto: ₡210
+ID: 673544535f25d | Descripción: hola | Monto: ₡210
+ID: 67354689c6f77 | Descripción: a | Monto: ₡400
+ID: 67354692051c9 | Descripción: a | Monto: ₡400
+************************
+Monto Contado: ₡1,220.00
+Interés (2.6%): ₡31.72
+Cashback (0.1%): ₡1.22
+Monto Final de Pagar: ₡1,250.50
